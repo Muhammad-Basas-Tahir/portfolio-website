@@ -1,0 +1,7 @@
+# Ensure consistent line endings for all text files
+* text=auto
+
+# Explicitly set LF for specific file types
+*.html text eol=lf
+*.js text eol=lf
+*.json text eol=lf

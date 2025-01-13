@@ -1,0 +1,20 @@
+# Node.js dependencies
+node_modules/
+
+# Ignore environment files (if any, like .env)
+.env
+
+# Ignore log files (if any)
+*.log
+
+# Ignore temporary files or directories created by text editors or IDEs
+.vscode/
+.idea/
+
+# Optional: Ignore build output directories if applicable (e.g., dist/ or build/)
+dist/
+build/
+
+# Optional: Ignore operating system files (e.g., .DS_Store for macOS)
+.DS_Store
+Thumbs.db
